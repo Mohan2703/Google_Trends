@@ -1,4 +1,6 @@
 # Reliance Infra – Google Trends Analytics Dashboard
+![Image](https://github.com/Mohan2703/Google_Trends/blob/main/Image.png?raw=true)
+
 ## Overview
 This project tracks real‑time public search interest for Reliance Infra share price using Google Trends data.
 It extracts data programmatically with Python, performs exploratory data analysis (EDA), and builds an interactive Power BI dashboard to visualize insights.
